@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #00f2ff;
+    }header {
+    background: linear-gradient(to left, #ffee00, #ff0000c5);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    }nav {
+    background: linear-gradient(to right, #77ff00, #008CBA);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    }nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    }section {
+    padding: 20px;
+    }
+    footer {
+    background: rgb(255, 255, 255);
+    color: #333333;
+    text-align: center;
+    padding: 15px ;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    }
